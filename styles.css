@@ -1,0 +1,96 @@
+h4 {
+  text-align: center;
+  font-size: 40px;
+  padding-left: 80px;
+  padding-top: 0px;
+}
+h5 {
+  margin-bottom: 80px;
+  padding-left: 80px;
+  font-size: 15px;
+}
+span {
+  font-weight: 1px;
+  margin-bottom: 80px;
+  padding-left: 80px;
+  font-size: 15px;
+}
+h6 {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 90px;
+  padding-left: 180px;
+  padding-top: 15px;
+}
+.weather-properties {
+  display: block;
+  margin-bottom: 60px;
+  padding-left: 150px;
+  padding-top: 75px;
+}
+li {
+  list-style: none;
+  text-align: center;
+  display: inline;
+  margin: 0px;
+  padding-left: 15px;
+}
+
+input {
+  text-align: center;
+  margin-top: 30px;
+  padding-bottom: 0px;
+}
+body {
+  margin-top: 150px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
+.searcher {
+  margin-bottom: 0px;
+}
+.current-temperature {
+  display: inline;
+  text-align: right;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  font-size: 30px;
+  padding-right: 130px;
+}
+.temperature {
+  text-align: right;
+  padding-right: 0 auto;
+  padding-left: 0px;
+  font-size: 35px;
+}
+.units {
+  margin-top: 0px;
+  padding-left: 0px;
+}
+
+#search-button {
+  color: #781d42;
+}
+#location-button {
+  color: #781d42;
+}
+#current-day {
+  padding-bottom: 0px;
+  padding-left: 80px;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+#wind {
+  padding: 5px;
+}
+#precipitation {
+  padding: 5px;
+}
+#humidity {
+  padding: 5px;
+}
