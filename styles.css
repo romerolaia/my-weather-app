@@ -72,6 +72,9 @@ body {
   margin-top: 0px;
   padding-left: 0px;
 }
+.container {
+  margin-bottom: 30px;
+}
 
 #search-button {
   color: #781d42;
